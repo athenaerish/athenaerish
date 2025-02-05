@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @athenaerish
 - 👀 I’m interested in web, mobile, and game development
-- 🌱 I’m currently learning JavaScript and Python
+- 🌱 I’m currently learning React, Tailwind, and Electron
 
 <!---
 athenaerish/athenaerish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
